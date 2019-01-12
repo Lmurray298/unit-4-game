@@ -1,0 +1,105 @@
+
+body{
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    
+    
+}
+
+
+
+
+h1{
+    margin: 40px;
+    padding: 30px;
+    text-align: center;
+    color: aliceblue;
+  
+    
+   
+    
+
+}
+
+
+h2{
+    margin: 0px 1100px 30px 30px;
+    padding: 10px;
+    text-emphasis: left;
+    color:aliceblue;
+   
+    
+    
+
+}
+
+
+h3{
+    text-align: center;
+    padding: 10px;
+    color:aliceblue;
+    
+    
+   
+    
+   
+    
+}
+
+
+#crystal1{
+    height: 40px;
+    width: 40px;
+    margin-left: 50px;
+    background-size: cover;
+    margin:10px;
+    background-image: url(../images/crystal1.png);
+    padding: 40px;
+}
+
+#crystal2{
+    height: 40px;
+    width: 40px;
+    margin-left: 50px;
+    background-size: cover;
+    margin: 10px;
+    background-image: url(../images/crystal2.png);
+    padding: 40px;
+    
+}
+
+
+#crystal3{
+    height: 40px;
+    width: 40px;
+    margin-left: 50px;
+    background-size: cover;
+    margin: 10px;
+    background-image: url(../images/crystal3.png);
+    padding: 40px;
+    
+}
+
+#crystal4{
+    height: 40px;
+    width: 40px;
+    margin-left: 50px;
+    background-size: cover;
+    margin: 10px;
+    background-image: url(../images/crystal4.png);
+    padding: 40px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
